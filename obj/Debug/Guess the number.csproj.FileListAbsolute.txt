@@ -1,0 +1,13 @@
+C:\Users\Windows 10\source\repos\Guess the number\bin\Debug\Guess the number.exe
+C:\Users\Windows 10\source\repos\Guess the number\bin\Debug\Guess the number.pdb
+C:\Users\Windows 10\source\repos\Guess the number\obj\Debug\Guess the number.csprojAssemblyReference.cache
+C:\Users\Windows 10\source\repos\Guess the number\obj\Debug\MainWindow.g.cs
+C:\Users\Windows 10\source\repos\Guess the number\obj\Debug\App.g.cs
+C:\Users\Windows 10\source\repos\Guess the number\obj\Debug\Guess the number_MarkupCompile.cache
+C:\Users\Windows 10\source\repos\Guess the number\obj\Debug\Guess the number_MarkupCompile.lref
+C:\Users\Windows 10\source\repos\Guess the number\obj\Debug\MainWindow.baml
+C:\Users\Windows 10\source\repos\Guess the number\obj\Debug\Guess the number.g.resources
+C:\Users\Windows 10\source\repos\Guess the number\obj\Debug\Guess_the_number.Properties.Resources.resources
+C:\Users\Windows 10\source\repos\Guess the number\obj\Debug\Guess the number.csproj.GenerateResource.cache
+C:\Users\Windows 10\source\repos\Guess the number\obj\Debug\Guess the number.exe
+C:\Users\Windows 10\source\repos\Guess the number\obj\Debug\Guess the number.pdb
